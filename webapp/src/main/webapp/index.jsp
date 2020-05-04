@@ -1,4 +1,4 @@
-<body bgcolor='yellow'>
+<body bgcolor='aqua'>
 <h1> Hello, This is simple java application </h1>
 <h2> Deploying on Dockerhub using Ansible </h2>
 
