@@ -5,6 +5,7 @@
 <p> Testing versions of Docker images </br>
     testing pipeline
     Deploying to test servers for testing.
+    final deploy
     web application is now live on production servers. 
 </p>
 
